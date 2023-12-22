@@ -1,4 +1,4 @@
-## LLM_TextClassifier_SwissWWF
+## Text Classifier using LLM for Switzerland's WWF NGO
 
 Business Problem:
 
