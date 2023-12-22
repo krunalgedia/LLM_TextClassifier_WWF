@@ -12,15 +12,12 @@ The primary objective of this project is to leverage existing pre-trained Large 
 
 - [Project Overview](#project-overview)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Data](#data)
 - [Workflow](#workflow)
-- [Results](#results)
-- [More ideas](#More-ideas)
+- [Major files](#major-files)
 - [Dependencies](#dependencies)
-- [License](#license)
 - [Contact](#contact)
-- [References](#references)
+- [Team](#team)
 
 ## Project Overview
 
@@ -63,6 +60,8 @@ After performing the above step,
 * The user can also change the GPT model to use (given newer and newer models keep coming and not-so-old models keep depreciating soon). For this, just enter the GPT model on the left sidebar and press enter.
 
 * The randomness or temperature parameter on the left sidebar is a model parameter on the level of randomness of the GPT model output. The normal chatbot available on the ChatGPT website has a 0.5 value. For more definitive output like the one required for our goal, it is recommended by OpenAI to keep it at 0.2, especially for GPT 3.5 models. Thus, by default, the value of this parameter is 0.2 on the left sidebar. 
+
+## Major Files
 
 * .env contains the OpenAI API key.
 * app.py contains the streamlit app code.
