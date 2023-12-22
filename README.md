@@ -22,7 +22,7 @@ The primary objective of this project is to leverage existing pre-trained Large 
 ## Project Overview
 
 The goal of this project is to develop a real-time web application to
-* Classify the text as constructive or not and also to give reasons.
+* Classify the text as constructive or not and also give reasons.
 
 ## Installation
 
@@ -38,9 +38,9 @@ Also, check **Dependencies Section** for major dependencies and their version. E
 
 ## Data
 
-The data used for prompt engineering were the key points distinguishing ![constructuve and non-constructuve text] (https://github.com/krunalgedia/LLM_TextClassifier_WWF/blob/main/data/processed/Medienmitteilungen%20Export%20DE%2020230822-%20Kriterien%20der%20Konstruktivit%C3%A4t%20updated.csv). 
+The data used for prompt engineering were the key points distinguishing [constructuve and non-constructuve text] (https://github.com/krunalgedia/LLM_TextClassifier_WWF/blob/main/data/processed/Medienmitteilungen%20Export%20DE%2020230822-%20Kriterien%20der%20Konstruktivit%C3%A4t%20updated.csv). 
 
-Further, all the reasons for a text classified as constructive and not constructive are present in this ![file] (https://github.com/krunalgedia/LLM_TextClassifier_WWF/blob/main/data/raw/Medienmitteilungen%20Export%20DE%2020230822.xlsx) was also used. It consists of 35 constructive text reasons and 15 non-constructive text reasons.
+Further, all the reasons for a text classified as constructive and not constructive are present in this [file] (https://github.com/krunalgedia/LLM_TextClassifier_WWF/blob/main/data/raw/Medienmitteilungen%20Export%20DE%2020230822.xlsx) was also used. It consists of 35 constructive text reasons and 15 non-constructive text reasons.
 
 The final prompt was engineered for the OpenAI GPT model. 
 
