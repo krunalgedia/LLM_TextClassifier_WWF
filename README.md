@@ -45,7 +45,7 @@ Further, all the reasons for a text classified as constructive and not construct
 The final prompt was engineered for the OpenAI GPT model. 
 
 ## Workflow
-The user must export their OpenAI API key either as an environment variable. For this, just replace the key in [.env file](https://github.com/krunalgedia/LLM_TextClassifier_WWF/blob/main/.env) with your key.
+The user must export their OpenAI API key either as an environment variable. For this, just replace the key in [env file](https://github.com/krunalgedia/LLM_TextClassifier_WWF/blob/main/.env) with your key.
 
 After performing the above step,
 
